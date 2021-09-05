@@ -1,4 +1,4 @@
-package bett.com.kotlinlistview.dtos
+package com.example.mykotlincontectdata.dtos
 
 
 class UserDto {
