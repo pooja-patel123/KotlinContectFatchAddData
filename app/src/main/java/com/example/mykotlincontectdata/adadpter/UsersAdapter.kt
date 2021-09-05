@@ -5,7 +5,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import bett.com.kotlinlistview.dtos.UserDto
+import com.example.mykotlincontectdata.UserDto
 
 import com.example.mykotlincontectdata.R
 
