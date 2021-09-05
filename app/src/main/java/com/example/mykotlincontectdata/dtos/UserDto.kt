@@ -9,8 +9,8 @@ class UserDto {
 
     constructor() {}
 
-    constructor(name: String, comment: String) {
+    constructor(name: String, Number: String) {
         this.name = name
-        this.Number = comment
+        this.Number = Number
     }
 }
